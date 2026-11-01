@@ -1,1 +1,0 @@
-# Monitoreo_Sensores_MalenosVIP
